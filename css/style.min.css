@@ -743,7 +743,7 @@ a.hover-reverse:hover {
 .probootstrap-footer-widget {
     float: left;
     width: 100%;
-    margin-bottom: 30px
+    margin-bottom: -99px
 }
 
 .probootstrap-footer-widget .heading {
@@ -1070,6 +1070,24 @@ figure:hover figcaption {
     text-transform: uppercase
 }
 
+
+
+
+.slides-text2 {
+    z-index: 99;
+    padding-top: 179px;
+    max-width: 600px;
+    margin: 0 auto
+}
+
+.slides-text2 h2 {
+    font-weight: 100;
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase
+}
+
+
 @media screen and (max-width:768px) {
     .slides-text h2 {
         font-size: 30px
@@ -1079,6 +1097,9 @@ figure:hover figcaption {
 .slides-text p {
     font-size: 18px
 }
+.slides-text2 p {
+    font-size: 21px
+}
 
 @media screen and (max-width:768px) {
     .slides-text p {
@@ -1086,6 +1107,16 @@ figure:hover figcaption {
     }
 
     .slides-text {
+        padding-top: 150px
+    }
+}
+
+@media screen and (max-width:768px) {
+    .slides-text2 p {
+        font-size: 16px
+    }
+
+    .slides-text2 {
         padding-top: 150px
     }
 }
