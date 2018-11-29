@@ -6,6 +6,25 @@
  * Author URL: https://probootstrap.com
  * License: Released for free under the Creative Commons Attribution 3.0 license (probootstrap.com/license)
  */
+
+.serviceicon {
+    width: 15%;
+    height: auto;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+}
+.serviceicon1 {
+    width: 15%;
+    height: auto;
+    display: inline-block;
+    margin-left: 8%;
+    margin-right: auto;
+    padding-bottom: 15px;
+}
+
+
 .probootstrap-logo,
 body {
     font-family: "Open Sans", sans-serif
@@ -17,10 +36,11 @@ body {
     text-transform: uppercase
 }
 
-.font-white{
-color: #ddf0f3
+.font-white {
+    color: #ddf0f3
 }
-.container2{
+
+.container2 {
     background-color: #000;
 }
 
@@ -49,18 +69,18 @@ body {
     background: #000;
     font-size: 17.5px;
     line-height: 1.8;
-    color:#bdbdbd;
+    color: #bdbdbd;
     font-weight: 300
 }
 
 ::selection {
     background: #000;
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 ::-moz-selection {
     background: #000;
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 .page-title h1,
@@ -76,7 +96,7 @@ h4 {
     margin: 1.414em 0 .5em;
     line-height: 1.2;
     font-weight: 300;
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 .page-title h1,
@@ -117,23 +137,23 @@ ul {
 a {
     -webkit-transition: .3s all;
     transition: .3s all;
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 a:focus,
 a:hover {
-    color:rgb(12, 153, 134);
+    color: rgb(12, 153, 134);
     text-decoration: none !important
 }
 
 a.hover-reverse {
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 a.hover-reverse:active,
 a.hover-reverse:focus,
 a.hover-reverse:hover {
-    color:rgb(12, 153, 134);
+    color: rgb(12, 153, 134);
     text-decoration: none
 }
 
@@ -148,7 +168,7 @@ a.hover-reverse:hover {
 
 .probootstrap-logo {
     float: left;
-    color:rgb(12, 153, 134);
+    color: rgb(12, 153, 134);
     padding-left: 0;
     font-size: 20px;
     display: block;
@@ -505,7 +525,7 @@ a.hover-reverse:hover {
 .btn.btn-ghost {
     background: 0 0;
     border: 2px solid #0EC0A8;
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 .btn.btn-ghost:hover {
@@ -774,7 +794,7 @@ a.hover-reverse:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding: 8em 0;
+    padding: 5em 0;
     position: relative
 }
 
@@ -797,7 +817,7 @@ a.hover-reverse:hover {
 .probootstrap-footer.probootstrap-bg h4,
 .probootstrap-panel .panel .probootstrap-footer.probootstrap-bg .panel-title,
 .service .probootstrap-footer.probootstrap-bg .heading {
-    color:rgb(12, 153, 134)
+    color: rgb(12, 153, 134)
 }
 
 .probootstrap-footer.probootstrap-bg:before {
@@ -986,7 +1006,7 @@ figure:hover figcaption {
     position: absolute;
     top: 50%;
     right: 0;
-    speak: none;
+    speak-as: none;
     font-style: normal;
     font-variant: normal;
     -webkit-font-smoothing: antialiased;
@@ -1097,6 +1117,7 @@ figure:hover figcaption {
 .slides-text p {
     font-size: 18px
 }
+
 .slides-text2 p {
     font-size: 21px
 }
@@ -2032,7 +2053,7 @@ figure:hover figcaption {
 .flexslider2,
 .flexslider2 .slides>li,
 .slider-height {
-    height: 500px;
+    height: 390px;
     overflow: hidden
 }
 
@@ -2044,7 +2065,7 @@ figure:hover figcaption {
     .flexslider2 .slides>li,
     .slider-height {
         height: inherit;
-        height: 500px
+        height: 390px
     }
 
     .flexslider .flex-direction-nav,
@@ -2211,7 +2232,7 @@ figure:hover figcaption {
 .flexslider .flex-direction-nav a:before,
 .flexslider2 .flex-direction-nav a:before {
     font-family: icomoon;
-    speak: none;
+    speak-as: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
