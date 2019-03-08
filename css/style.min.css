@@ -170,7 +170,7 @@ a.hover-reverse:hover {
     float: left;
     color: rgb(12, 153, 134);
     padding-left: 0;
-    font-size: 20px;
+    font-size: 18px;
     display: block;
     text-transform: uppercase;
     font-weight: 900
@@ -503,29 +503,29 @@ a.hover-reverse:hover {
 }
 
 .btn.btn-primary {
-    border: 2px solid #0EC0A8;
-    background: #0EC0A8;
+    border: 2px solid #78b6f7;
+    background: #0e7cc0;
     color: #fff
 }
 
 .btn.btn-primary:active,
 .btn.btn-primary:focus,
 .btn.btn-primary:hover {
-    background: #0EC0A8;
+    background: #639fe0;
     color: #fff;
-    border: 2px solid #0EC0A8
+    border: 2px solid #78b6f7
 }
 
 .btn.btn-primary:active,
 .btn.btn-primary:focus {
     outline: 0;
-    border: 2px solid #0EC0A8
+    border: 2px solid #639fe0
 }
 
 .btn.btn-ghost {
     background: 0 0;
-    border: 2px solid #0EC0A8;
-    color: rgb(12, 153, 134)
+    border: 2px solid #0e7cc0;
+    color: rgb(253, 253, 253)
 }
 
 .btn.btn-ghost:hover {
@@ -2053,7 +2053,7 @@ figure:hover figcaption {
 .flexslider2,
 .flexslider2 .slides>li,
 .slider-height {
-    height: 390px;
+    height: 305px;
     overflow: hidden
 }
 
@@ -2065,7 +2065,7 @@ figure:hover figcaption {
     .flexslider2 .slides>li,
     .slider-height {
         height: inherit;
-        height: 390px
+        height: 305px
     }
 
     .flexslider .flex-direction-nav,
