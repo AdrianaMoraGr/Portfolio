@@ -640,7 +640,7 @@ a.hover-reverse:hover {
 .probootstrap-section.probootstrap-section-colored .heading-with-icon i,
 .probootstrap-section.probootstrap-section-dark .heading-with-icon,
 .probootstrap-section.probootstrap-section-dark .heading-with-icon i {
-    color: #22eaaa
+    color: #337ab7
 }
 
 .probootstrap-section.probootstrap-section-colored p,
@@ -815,7 +815,7 @@ a.hover-reverse:hover {
 
 .probootstrap-footer.probootstrap-bg a {
     text-decoration: none;
-    color: #22eaaa
+    color: #337ab7
 }
 
 .probootstrap-footer.probootstrap-bg a:hover {
@@ -832,7 +832,7 @@ a.hover-reverse:hover {
 .probootstrap-footer.probootstrap-bg h4,
 .probootstrap-panel .panel .probootstrap-footer.probootstrap-bg .panel-title,
 .service .probootstrap-footer.probootstrap-bg .heading {
-    color: rgb(12, 153, 134)
+    color: #337ab7
 }
 
 .probootstrap-footer.probootstrap-bg:before {
@@ -902,7 +902,7 @@ a.hover-reverse:hover {
     right: 3px;
     padding-left: 15px;
     padding-right: 15px;
-    background: #22eaaa;
+    background: #337ab7;
     color: #fff
 }
 
@@ -1039,7 +1039,7 @@ figure:hover figcaption {
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded=true] {
-    color: #22eaaa
+    color: #337ab7
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded=true]:after {
@@ -1173,7 +1173,7 @@ figure:hover figcaption {
 }
 
 .probootstrap-card .probootstrap-card-media.colored .svg {
-    fill: #22eaaa
+    fill: #337ab7
 }
 
 .probootstrap-card .probootstrap-card-text {
@@ -1222,14 +1222,14 @@ figure:hover figcaption {
 .probootstrap-card.probootstrap-listing .probootstrap-card-media .probootstrap-love:hover {
     -webkit-box-shadow: 0 2px 8px -6px rgba(0, 0, 0, .7);
     box-shadow: 0 2px 8px -6px rgba(0, 0, 0, .7);
-    background: #22eaaa;
+    background: #337ab7;
     color: #fff
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-media .probootstrap-love.active {
     -webkit-box-shadow: 0 6px 8px -6px rgba(0, 0, 0, .1);
     box-shadow: 0 6px 8px -6px rgba(0, 0, 0, .1);
-    background: #22eaaa;
+    background: #337ab7;
     color: #fff
 }
 
@@ -1271,7 +1271,7 @@ figure:hover figcaption {
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-category.for-sale span {
-    background: #22EAAA
+    background: #337ab7
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-category.for-rent span {
@@ -1286,7 +1286,7 @@ figure:hover figcaption {
 .probootstrap-card.probootstrap-listing .probootstrap-card-text .probootstrap-listing-price strong {
     font-size: 30px;
     font-weight: 300;
-    color: #22eaaa
+    color: #337ab7
 }
 
 .probootstrap-card.probootstrap-listing .probootstrap-card-extra {
@@ -1557,7 +1557,7 @@ figure:hover figcaption {
     line-height: 25px;
     text-align: center;
     border-radius: 50%;
-    background: #22eaaa;
+    background: #337ab7;
     color: #fff
 }
 
@@ -1628,7 +1628,7 @@ figure:hover figcaption {
     background-repeat: no-repeat;
     -webkit-transition: .8s all ease-in-out;
     transition: .8s all ease-in-out;
-    background-color: #22eaaa
+    background-color: #337ab7
 }
 
 .probootstrap-half .text {
@@ -1650,7 +1650,7 @@ figure:hover figcaption {
 .probootstrap-half .text h5,
 .probootstrap-panel .panel .probootstrap-half .text .panel-title,
 .service .probootstrap-half .text .heading {
-    color: #27A393
+    color: #337ab7
 }
 
 .probootstrap-card .probootstrap-card-text .probootstrap-half .text .probootstrap-card-heading,
